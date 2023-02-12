@@ -1,0 +1,14 @@
+.heading{
+    background-color: crimson;
+    padding: 30px;
+}
+
+.para{
+    background-color: darkmagenta;
+    padding: 10px;
+}
+
+.btn{
+    font-size: 30px;
+    color:blue;
+}
